@@ -1,18 +1,72 @@
-# This .gitignore is appropriate for repositories deployed to GitHub Pages and using
-# a Gemfile as specified at https://github.com/github/pages-gem#conventional
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo João Vitor</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+   <section>
+      <h1><b>João Vitor de S. Macedo </b></h1>
+      <img class="foto-perfil"src="Img/IMG_1105.PNG">
+   </section>
+   <section>
 
-# Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+    <h3>Imformações Pessoais</h3>
+    <hr>
+      <p><ul>
+         <li>Rua: Professor Bouhran Helou - n°113 <br></li>
+         <li>Jardim Ana Rosa / São Paulo - SP </li>
+         <li>CEP: 03287-030 <br></li>
+         <li>Tel: 11 91245-1446 <br></li>
+         <li>Brasileiro, Solteiro, 21 anos <br></li>
+         <li>Email: joaosanches1213@gmail.com </li></p>
+         </ul>
+   </section>
+        
+   
+    <h3>OBJETIVO PROFISSIONAL</h3>
+    <hr>
+    <p> Expedidor de mercadorias, Líder de expedição, Encarregado de expedição, Auxiliar administrativo, Auxiliar de logística, Analista Jr, Vendedor,<br>
+      estágios em Desenvolvimento de Software, Administração de Redes, Suporte Técnico, Segurança da Informação, Desenvolvimento Web, Banco de Dados.</p>
+      
+    <h3><b>FORMAÇÃO ESCOLAR </b><hr></h3>
+    
+    <p><ul>
+         <li>Ensino Médio (Completo) <br></li>
+         <li>Analise e Desenvolvimento de Sistema - Nove de Julho (Uninove) - Graduação. <br></li>
+         <li>Início: 01/01/2025 / Até: 30/07/2027  <br></li></p>
+         </ul>
 
-# Additional Ruby/bundler ignore for when you run: bundle install
-/vendor
+   
+    <h3><strong>CURSOS EXTRACURRICULARES <hr></strong></h3>
+    <p><ul>
+      <li>Competência Transversal – Logica de Programação – Senai <br></li>
+      <li>Implantação de Serviços em Nuvem - Goolfe Cloude Foundations - Senai <br></li>
+      <li>Lei Geral de Proteção de Dados (LGPD) - Fundação Bradesco <br></li>
+      <li>Competência Transversal – Finanças Pessoais – Senai <br></li>
+      <li>Microsoft Excel 2016 – Básico – Fundação Bradesco <br></li>
+      <li>Microsoft Excel 2016 – Intermediário – Fundação Bradesco <br></li>
+   </p>
+    </ul>
+    <h3><b> EXPERIÊNCIAS PROFISSIONAIS <hr></b></h3>
+    <p><b>Cleutex Comercial LTDA </b><br>
+   <ul><li>Cargo: Expedição <br></li>
+       <li>Período: 21/08/2019 a 26/11/2023 <br></li></p>
+      </ul>
 
-# Specific ignore for GitHub Pages
-# GitHub Pages will always use its own deployed version of pages-gem 
-# This means GitHub Pages will NOT use your Gemfile.lock and therefore it is
-# counterproductive to check this file into the repository.
-# Details at https://github.com/github/pages-gem/issues/768
-Gemfile.lock
+    <p><b>Postec Participações e Serviços Postais LTDA </b><br>
+   <ul><li>Cargo: Operador de Serviços Internios <br></li>
+       <li>Período: 11/12/2013 a 11/01/2025 <br></li></p>
+      </ul>
+
+    <h3><b> APRESENTAÇÃO <hr></b></h3>
+    <p>Tenho facilidade de aprendizado, gosto de trabalhar em equipe, bom relacionamento com outras pessoas, <br>
+       procuro sempre cumprir minhas metas e dar o melhor de mim, estou à disposição da empresa! <br></p>
+       
+    <p> AGRADEÇO DESDE JÁ.</p>
+    
+</body>
+
+</html>
